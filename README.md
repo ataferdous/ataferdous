@@ -30,13 +30,12 @@ Skills: HTML/CSS/Javascript/WordPress/Web Development
 #### Web Developer
 ![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/454449202_373193379135413_6514071716006611459_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BvgyVZltWdYQ7kNvgHQN5kK&_nc_ht=scontent.fdac110-1.fna&oh=00_AYDPu_NAI2V56nmPLE_hAc0kqxYcKhTdSukcBoY4-m1NDA&oe=66BB88FB)
 
-I'm a Web developer who is passionate about making error-free websites with 100% satisfaction. I love to Solve real-world problems. I pride myself on doing quality work and maintain excellent communication. 
 
-Skills:  / HTML / CSS/JAVA SCRIPT
 
-- 🔭 I’m currently working on this page. 
+Skills: HTML/CSS/Javascript 
+
+- 🔭  I’m currently learning Web Development 
 - 🌱 I’m currently learning CSS 
-- 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 
 
