@@ -1,4 +1,3 @@
-![Web Developer](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/454449202_373193379135413_6514071716006611459_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BvgyVZltWdYQ7kNvgHQN5kK&_nc_ht=scontent.fdac110-1.fna&oh=00_AYDPu_NAI2V56nmPLE_hAc0kqxYcKhTdSukcBoY4-m1NDA&oe=66BB88FB)
 
 Always try to learn something new. 
 
